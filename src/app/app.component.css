@@ -1,0 +1,14 @@
+.table{
+        border: 2px solid blue;
+    width: 600px;
+    padding: 0;
+    height: auto;
+}
+.modal-body label{
+    font-weight: 700;
+    color: #aaa;
+    font-size: 18px;
+}
+.modal-body input{
+    width: 100%;
+}
